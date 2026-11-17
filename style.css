@@ -4,9 +4,9 @@ background-color: rgb(136, 127, 255);
 }
 
 .project-box {
-    background-color: aquamarine;
+    background-color: rgb(239, 175, 255);
     padding: 20px;
-    border: 2px solid #16a34a;
+    border: 2px solid #0b1bff;
     border-radius: 8px;
     flex: 1 1 180px;
 }
